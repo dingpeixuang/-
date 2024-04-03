@@ -184,6 +184,7 @@ function clickTable() {
   display: flex;
   justify-content: flex-end;
   font-size: 12px;
+  color: #333;
   p {
     display: flex;
     align-items: center;
@@ -200,6 +201,7 @@ function clickTable() {
   }
 }
 .form-bottom {
+    color: #333;
   display: flex;
   .card {
     background-color: #fff;
